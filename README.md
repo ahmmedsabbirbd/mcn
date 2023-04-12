@@ -1,5 +1,5 @@
 ﻿# My Company's Network Of Tees (MCN)
- [Live Link](https://ahmmedsabbirbd.github.io/mcn)
+ [Live Link](https://ahmmedsabbirbd.github.io/mcn){:target="_blank"}
 
 MCN is a platform that provide raw tree. It's have a home page, an about page, a services page, a portfolio page, a blog page, and a contact page.
 
